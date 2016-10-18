@@ -1,1 +1,4 @@
-
+Background
+To qualify basic task subjects of network security in computer networks is essential to monitor outcomes network access and prevent misuse by irresponsible parties. Network security and confidentiality of computer networks is currently a very berkembang.Kasus issues that are currently intensively necessary safeguards its enormous cost. As the bank system, system of a billboard, or any other system requiring high security, This is due to technological advances in the field of network security that is why all people everywhere in any area can be accessed. To maintain the security and confidentiality of messages, datamaka by the parties to create a message, data, information that is not understood by anyone, except by the recipient is entitled. Security messages, data, or information besides aiming to improve security, it also serves to:
+• Protects messages, data, or information that can not be read by people who are not responsible.
+• Prevent people who are not responsible, insert or delete messages, or data and information.
